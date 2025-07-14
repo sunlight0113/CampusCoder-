@@ -1,5 +1,0 @@
-2024-10-14 19:11:42 [com.xxl.job.core.thread.JobThread#run]-[133]-[xxl-job, JobThread-2-1728904302574] <br>----------- xxl-job job execute start -----------<br>----------- Param:
-2024-10-14 19:11:42 [com.lunsir.subject.domain.job.SyncLikedJob#syncLikedJobHandler]-[47]-[xxl-job, JobThread-2-1728904302574] syncLikedJobHandler.start...
-2024-10-14 19:12:20 [com.lunsir.subject.domain.job.SyncLikedJob#syncLikedJobHandler]-[68]-[xxl-job, JobThread-2-1728904302574] syncLikedJobHandler.error:For input string: "oUZNI60QwgjC-4RviyrMsKRKGbJ4"
-2024-10-14 19:12:20 [com.xxl.job.core.thread.JobThread#run]-[179]-[xxl-job, JobThread-2-1728904302574] <br>----------- xxl-job job execute end(finish) -----------<br>----------- Result: handleCode=200, handleMsg = null
-2024-10-14 19:12:20 [com.xxl.job.core.thread.TriggerCallbackThread#callbackLog]-[197]-[xxl-job, executor TriggerCallbackThread] <br>----------- xxl-job job callback finish.
