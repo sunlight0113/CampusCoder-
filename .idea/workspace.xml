@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="45214042-91c2-425e-8565-7754ff97a998" name="Changes" comment="" />
+    <list default="true" id="45214042-91c2-425e-8565-7754ff97a998" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -18,6 +20,9 @@
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="jar://$PROJECT_DIR$/../../../software/apache-maven-3.8.6/repos/org/springframework/spring-core/5.3.6/spring-core-5.3.6.jar!/org/springframework/util/CollectionUtils.class" root0="SKIP_INSPECTION" />
@@ -36,6 +41,7 @@
     <option name="selectedTabId" value="CurrentFile" />
   </component>
   <component name="ProjectId" id="2d2Zpsjil9bDLdqiN7kQIgFb1xI" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -55,6 +61,7 @@
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
     &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
     &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
     &quot;project.structure.side.proportion&quot;: &quot;0.2025&quot;,
@@ -253,6 +260,10 @@
       <workItem from="1750050454597" duration="146000" />
       <workItem from="1752198257290" duration="64000" />
       <workItem from="1752198331093" duration="7517000" />
+      <workItem from="1752469889429" duration="533000" />
+      <workItem from="1752470445257" duration="18000" />
+      <workItem from="1752470480037" duration="31000" />
+      <workItem from="1752470582582" duration="27000" />
     </task>
     <servers />
   </component>
