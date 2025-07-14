@@ -1,0 +1,278 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="45214042-91c2-425e-8565-7754ff97a998" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Enum" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="jar://$PROJECT_DIR$/../../../software/apache-maven-3.8.6/repos/org/springframework/spring-core/5.3.6/spring-core-5.3.6.jar!/org/springframework/util/CollectionUtils.class" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectId" id="2d2Zpsjil9bDLdqiN7kQIgFb1xI" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RequestMappingsPanelOrder0&quot;: &quot;0&quot;,
+    &quot;RequestMappingsPanelOrder1&quot;: &quot;1&quot;,
+    &quot;RequestMappingsPanelWidth0&quot;: &quot;75&quot;,
+    &quot;RequestMappingsPanelWidth1&quot;: &quot;75&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;1.8&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/lunyasen/Documents/lunyasen/project/jc-club/jc-club-subject/jc-club-domain/src/main/java/com/lunsir/subject/domain/redis&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2025&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.completion&quot;,
+    &quot;spring.configuration.checksum&quot;: &quot;f3751b61ae604229b87b396047d9b53b&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;DatabaseDriversLRU&quot;: [
+      &quot;mysql&quot;
+    ]
+  }
+}</component>
+  <component name="ReactorSettings">
+    <option name="notificationShown" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/jc-club-subject/jc-club-domain/src/main/java/com/lunsir/subject/domain/redis" />
+      <recent name="$PROJECT_DIR$/jc-club-wx/src/main/java/com/lunsir/wx" />
+      <recent name="$PROJECT_DIR$/jc-club-gateway/src/main/java/com/lunsir/entity" />
+      <recent name="$PROJECT_DIR$/jc-club-auth/jc-club-auth-domain/src/main/java/com/lunsir/auth/domain" />
+      <recent name="$PROJECT_DIR$/jc-club-auth/jc-club-auth-infra/src/main/java/com/lunsir/auth/infra" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.lunsir.subject.domain.job" />
+      <recent name="com.lunsir.subject.domain.config" />
+      <recent name="com.lunsir.wx.utils" />
+      <recent name="com.lunsir.subject" />
+      <recent name="com.lunsir.subject.domain.service.impl" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Spring Boot.ClubSubjectApplication">
+    <configuration name="WXApplicationTest.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="jc-club-wx" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="WXApplicationTest" />
+      <option name="METHOD_NAME" value="test1" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AuthApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="jc-club-auth-starter" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.lunsir.auth.AuthApplication" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lunsir.auth.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ClubSubjectApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="jc-club-starter" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.lunsir.subject.ClubSubjectApplication" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lunsir.subject.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GatewayApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="jc-club-gateway" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.lunsir.GatewayApplication" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lunsir.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OssApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="jc-club-oss" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.lunsir.OssApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PracticeApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="jc-club-practice-server" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.jingdianjichi.practice.server.PracticeApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WxApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="jc-club-wx" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.lunsir.wx.WxApplication" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lunsir.wx.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.ClubSubjectApplication" />
+        <item itemvalue="JUnit.WXApplicationTest.test1" />
+        <item itemvalue="Spring Boot.GatewayApplication" />
+        <item itemvalue="Spring Boot.AuthApplication" />
+        <item itemvalue="Spring Boot.WxApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="45214042-91c2-425e-8565-7754ff97a998" name="Changes" comment="" />
+      <created>1709208320882</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1709208320882</updated>
+      <workItem from="1709208322324" duration="10039000" />
+      <workItem from="1709296319137" duration="1952000" />
+      <workItem from="1709364205475" duration="11604000" />
+      <workItem from="1709382439880" duration="3819000" />
+      <workItem from="1709388838110" duration="3032000" />
+      <workItem from="1709443682660" duration="25254000" />
+      <workItem from="1709554934174" duration="15455000" />
+      <workItem from="1709622550122" duration="9000" />
+      <workItem from="1709644291155" duration="5112000" />
+      <workItem from="1712669000823" duration="78000" />
+      <workItem from="1714220900205" duration="4000" />
+      <workItem from="1714222204908" duration="9000" />
+      <workItem from="1715952826185" duration="189000" />
+      <workItem from="1715954023043" duration="1278000" />
+      <workItem from="1718554517311" duration="1000000" />
+      <workItem from="1725673183966" duration="123000" />
+      <workItem from="1725767876207" duration="123000" />
+      <workItem from="1726059966041" duration="3087000" />
+      <workItem from="1726107672128" duration="6167000" />
+      <workItem from="1726223650828" duration="1201000" />
+      <workItem from="1726491467018" duration="3187000" />
+      <workItem from="1726559714193" duration="4676000" />
+      <workItem from="1726640541860" duration="2317000" />
+      <workItem from="1726659253422" duration="8047000" />
+      <workItem from="1726835470396" duration="1507000" />
+      <workItem from="1726837102747" duration="4392000" />
+      <workItem from="1727009774365" duration="87000" />
+      <workItem from="1727160861867" duration="25000" />
+      <workItem from="1727432253491" duration="2032000" />
+      <workItem from="1727435337136" duration="9552000" />
+      <workItem from="1727496532559" duration="660000" />
+      <workItem from="1727507063933" duration="14786000" />
+      <workItem from="1727860499197" duration="12682000" />
+      <workItem from="1727881335522" duration="3467000" />
+      <workItem from="1727886333952" duration="36704000" />
+      <workItem from="1728472871420" duration="8979000" />
+      <workItem from="1728525291907" duration="5882000" />
+      <workItem from="1728560637207" duration="200000" />
+      <workItem from="1728565051258" duration="4137000" />
+      <workItem from="1728610923533" duration="9142000" />
+      <workItem from="1728649434067" duration="6344000" />
+      <workItem from="1728721088736" duration="12585000" />
+      <workItem from="1728792452489" duration="27846000" />
+      <workItem from="1728896734355" duration="16533000" />
+      <workItem from="1729080914782" duration="994000" />
+      <workItem from="1729081931458" duration="67000" />
+      <workItem from="1729086679071" duration="1111000" />
+      <workItem from="1729224689752" duration="28000" />
+      <workItem from="1729224742561" duration="9000" />
+      <workItem from="1729228651578" duration="4000" />
+      <workItem from="1729579011193" duration="41000" />
+      <workItem from="1729581452706" duration="37000" />
+      <workItem from="1729581681715" duration="24000" />
+      <workItem from="1729581753921" duration="60000" />
+      <workItem from="1729581962861" duration="41000" />
+      <workItem from="1730993834350" duration="425000" />
+      <workItem from="1730994394900" duration="125000" />
+      <workItem from="1732540310043" duration="411000" />
+      <workItem from="1732544484483" duration="3069000" />
+      <workItem from="1732626812159" duration="1961000" />
+      <workItem from="1746712007051" duration="133000" />
+      <workItem from="1746712482944" duration="46000" />
+      <workItem from="1746713452352" duration="29000" />
+      <workItem from="1746713676170" duration="19000" />
+      <workItem from="1750047777321" duration="2514000" />
+      <workItem from="1750050304806" duration="52000" />
+      <workItem from="1750050454597" duration="146000" />
+      <workItem from="1752198257290" duration="64000" />
+      <workItem from="1752198331093" duration="7517000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/jc-club-subject/jc-club-application/jc-club-application-controller/src/main/java/com/lunsir/application/subject/interceptor/FeignRequestInterceptor.java</url>
+          <line>21</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/jc-club-subject/jc-club-infra/src/main/java/com/lunsir/subject/infra/rpc/UserRPC.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

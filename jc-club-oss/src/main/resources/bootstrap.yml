@@ -1,0 +1,15 @@
+spring:
+  application:
+    name: jc-club-oss
+  profiles:
+    active: dev
+  cloud:
+    nacos:
+      config:
+        server-addr: 39.105.154.96:8848
+        prefix: ${spring.application.name}
+        group: DEFAULT_GROUP
+        file-extension: yaml
+        refresh-enabled: true
+      discovery:
+        server-addr: 39.105.154.96:8848

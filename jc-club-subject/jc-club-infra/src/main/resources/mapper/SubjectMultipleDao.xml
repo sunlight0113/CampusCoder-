@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.lunsir.subject.infra.basic.dao.SubjectMultipleDao">
+
+    <resultMap type="com.lunsir.subject.infra.basic.entity.SubjectMultiple" id="SubjectMultipleMap">
+        <result property="id" column="id" jdbcType="INTEGER"/>
+        <result property="subjectId" column="subject_id" jdbcType="INTEGER"/>
+        <result property="optionType" column="option_type" jdbcType="INTEGER"/>
+        <result property="optionContent" column="option_content" jdbcType="VARCHAR"/>
+        <result property="isCorrect" column="is_correct" jdbcType="INTEGER"/>
+        <result property="createdBy" column="created_by" jdbcType="VARCHAR"/>
+        <result property="createdTime" column="created_time" jdbcType="TIMESTAMP"/>
+        <result property="updateBy" column="update_by" jdbcType="VARCHAR"/>
+        <result property="updateTime" column="update_time" jdbcType="TIMESTAMP"/>
+        <result property="isDeleted" column="is_deleted" jdbcType="INTEGER"/>
+    </resultMap>
+
+</mapper>
+

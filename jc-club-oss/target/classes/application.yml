@@ -1,0 +1,15 @@
+spring:
+  application:
+    name: jc-club-oss
+  servlet:
+    multipart:
+      max-file-size: 501MB
+      max-request-size: 501MB
+server:
+  port: 4000
+
+minio:
+  url: http://39.105.154.96:9000
+  accessKey: minioadmin
+  secretKey: minioadmin
+

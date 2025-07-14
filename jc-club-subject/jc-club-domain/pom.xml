@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <parent>
+        <artifactId>jc-club-subject</artifactId>
+        <groupId>com.lunsir</groupId>
+        <version>1.0-SNAPSHOT</version>
+    </parent>
+    <modelVersion>4.0.0</modelVersion>
+
+    <artifactId>jc-club-domain</artifactId>
+    <dependencies>
+        <dependency>
+            <groupId>com.lunsir</groupId>
+            <artifactId>jc-club-infra</artifactId>
+            <version>1.0-SNAPSHOT</version>
+        </dependency>
+
+<!--        &lt;!&ndash;为了使用LonginContextHolder引入了这个包，这样做不好，后续会将ThreadLocal这一快抽取出来&ndash;&gt;-->
+<!--        <dependency>-->
+<!--            <groupId>com.lunsir</groupId>-->
+<!--            <artifactId>jc-club-application-controller</artifactId>-->
+<!--            <version>1.0-SNAPSHOT</version>-->
+<!--        </dependency>-->
+
+        <!--redis starter-->
+        <dependency>
+            <groupId>org.springframework.boot</groupId>
+            <artifactId>spring-boot-starter-data-redis</artifactId>
+        </dependency>
+        <!--common pool 连接池-->
+        <dependency>
+            <groupId>org.apache.commons</groupId>
+            <artifactId>commons-pool2</artifactId>
+        </dependency>
+
+        <dependency>
+            <groupId>com.lunsir</groupId>
+            <artifactId>jc-club-common</artifactId>
+            <version>1.0-SNAPSHOT</version>
+        </dependency>
+        <!--xxl-job-->
+        <dependency>
+            <groupId>com.xuxueli</groupId>
+            <artifactId>xxl-job-core</artifactId>
+            <version>2.3.1</version>
+        </dependency>
+
+        <!--由于Domain层没有引入web starter，所以我们需要引入spring，xxl-job会用到
+            如果在springBoot项目中，就不需要引入了
+        -->
+        <dependency>
+            <groupId>org.springframework</groupId>
+            <artifactId>spring-context</artifactId>
+            <version>5.3.27</version>
+        </dependency>
+
+    </dependencies>
+
+</project>
